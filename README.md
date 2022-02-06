@@ -35,3 +35,6 @@ https://www.futlabs.com/2021/09/21/How-to-use-ACME4J-to-get-SSL-certificate-auto
 https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/
 
 https://muserver.io/letsencrypt
+
+https://wwvv.codersrevolution.com/blog/connect-to-sqlite-db-using-cfml-via-commandbox-task-runners
+
